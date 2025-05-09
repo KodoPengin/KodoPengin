@@ -1,21 +1,27 @@
 <p align="center">
-<img src="https://gameindustry.eu/images/git/gitlogo.webp" height="auto" width=100%" >
-<p/>
+  <img src="https://gameindustry.eu/images/git/gitlogo.webp" width="100%" alt="Git Logo">
+</p>
 
-## 🐧About
+## 🐧 About the Project
+
 <table style="border-collapse: collapse;">
-<tr>
-<td><img src="https://gameindustry.eu/images/profiles/pen-chan.png" height="auto" width="125px"></td>
-<td>Hi, I'm Pengin, from GameIndustry.eu - an idealist and I've been working for several years now to uncover product behavior and establish relationships between the products and their respective companies, giving me and other users around the world back some privacy and security.</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-As a result, i'm creating filter lists, structured by product and name, and build up a project page since 2017 with additional information about background infos like involved companies, mechanics, software and gamereviews, little tools and more.
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-The goal is to show people what their software does, which services are contacted and which data is passed on and also who gets this data. In order to accomplish this and to explain it easily, various means of presentation are used and I hope to contribute a small part to the fact that the digital world and especially the people are at least somewhat safer.
-</td>
-</tr>
+  <tr>
+    <td><img src="https://gameindustry.eu/images/profiles/pen-chan.png" width="125px" alt="Pengin"></td>
+    <td>
+      Hello, I'm <strong>Pengin</strong> from <a href="https://gameindustry.eu">GameIndustry.eu</a>.  
+      For several years, I’ve been working independently and idealistically to analyze software behavior, identify links between products and companies, and help users around the world regain some privacy and security.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      As part of this, I create structured filter lists based on product names and identifiers.  
+      Since 2017, I’ve also been maintaining a project website that provides background information on companies, mechanics, software analyses, game reviews, tools, and more.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      The aim is to give people insight into what their software does, which services are contacted, what data is transmitted — and to whom. To make this transparent and understandable,  I use different forms of presentation.
+      I hope to contribute, in a small way, to a safer digital world — especially for the people using it.
+    </td>
+  </tr>
 </table>
