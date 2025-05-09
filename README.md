@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gameindustry.eu/images/git/gitlogo.webp" width="100%" alt="Git Logo">
+  <img src="https://gameindustry.eu/images/git/gitlogo.webp" width="100%" alt="Our data belongs to us!">
 </p>
 
 ## 🐧 About the Project
