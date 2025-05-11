@@ -46,7 +46,7 @@ With various forms of presentation and data examples, I aim to make this transpa
 
 ---
 
-## 📊 GitHub Stats (optional)
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KodoPengin&show_icons=true&theme=default)
 
