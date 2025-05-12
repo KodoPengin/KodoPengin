@@ -15,7 +15,7 @@
 </table>
 
 As part of this, I create structured filter lists and maintain a project website since 2017.  
-It offers information on companies, software mechanics, privacy tools, reviews, and more.
+It offers information on companies, software mechanics, privacy tools, reviews and more.
 
 My goal is to give people insight into what their software does — which services are contacted, what data is transmitted and to whom.  
 With various forms of presentation and data examples, I aim to make this transparent and understandable.
@@ -24,13 +24,14 @@ With various forms of presentation and data examples, I aim to make this transpa
 
 ## 🛠️ Tech & Tools
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
-![Batch](https://img.shields.io/badge/Windows%20Batch-008080?logo=windows&logoColor=white)
-![Net Debugger](https://img.shields.io/badge/Network%20Debugging-444444?logo=wireshark&logoColor=white)
+![Batch](https://img.shields.io/badge/Windows%20Batch-008080?logo=windows&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)  
+![Net Debugger](https://img.shields.io/badge/Network%20Debugging-444444?logo=wireshark&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
 
