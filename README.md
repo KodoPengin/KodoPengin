@@ -24,13 +24,13 @@ With various forms of presentation and data examples, I aim to make this transpa
 
 ## 🛠️ Tech & Tools
 
-![Batch](https://img.shields.io/badge/Windows%20Batch-008080?logo=windows&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)  
-![Net Debugger](https://img.shields.io/badge/Network%20Debugging-444444?logo=wireshark&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![Batch](https://img.shields.io/badge/Windows%20Batch-008080?logo=windows&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
+![Net Debugger](https://img.shields.io/badge/Network%20Debugging-444444?logo=wireshark&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
